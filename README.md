@@ -25,7 +25,7 @@ The project is public.
 
 ## Authors
 
-👤 **Hamayun**
+👤 **Ameer Farooq**
 
 - Github: [githubhandle](https://github.com/bot-killer-dot)
 - Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
